@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Salom, mening profilimga xush kelibsiz! 👋
 
 <picture>
