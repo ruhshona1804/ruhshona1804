@@ -1,7 +1,11 @@
 ## Hi there 👋
 # Salom, mening profilimga xush kelibsiz! 👋
 
-![Snake animation](https://github.com/ruhshona1804/ruhshona1804/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ruhshona1804/ruhshona1804/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ruhshona1804/ruhshona1804/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/ruhshona1804/ruhshona1804/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### Men haqimda:
 💻 Hozirda CRM loyihasi ustida ishlayapman.
