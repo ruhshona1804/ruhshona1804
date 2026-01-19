@@ -4,7 +4,7 @@
 ![Snake animation](https://github.com/ruhshona1804/ruhshona1804/blob/output/github-contribution-grid-snake.svg)
 
 ### Men haqimda:
-- 💻 Hozirda CRM loyihasi ustida ishlayapman.
+💻 Hozirda CRM loyihasi ustida ishlayapman.
 
 <!--
 **ruhshona1804/ruhshona1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
